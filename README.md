@@ -1,2 +1,3 @@
-# CS3141
-For CS3141 Assignment(s)
+Edited w/o vim because I still don't know how to exit vim. Please send help.
+
+Just in case, that was a joke. :)
